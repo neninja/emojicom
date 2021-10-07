@@ -15,11 +15,11 @@ Padrão de mensagem de commit com emojis.
   - `:new:(lang) add polish language`
   - `:bug: correct minor typos in code`
 - github:
-  - :new: allow provided config object to extend other configs
-  - :100: drop support for Node 6
-  - :sos: correct spelling of CHANGELOG
-  - :new:(lang) add polish language
-  - :bug: correct minor typos in code
+  - 🆕 allow provided config object to extend other configs
+  - 💯 drop support for Node 6
+  - 🆘 correct spelling of CHANGELOG
+  - 🆕(lang) add polish language
+  - 🐛 correct minor typos in code
  
 > [Créditos dos commits](https://www.conventionalcommits.org/en/v1.0.0/#examples)
 
