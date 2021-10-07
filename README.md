@@ -26,11 +26,11 @@ Padrão de mensagem de commit com emojis.
 ## Motivos
 
 - Poucos tipos de commit para lembrar:
-  - 3 tipos são inerentes ao produto em si
-  - 3 tipos são sobre código adjacente
+  - 3 para mudanças no produto
+  - 3 para mudanças auxiliares
 - Estéticamente agradável:
   - Emojis no github
-  - Somente 3 letras para todos tipos :ok_hand:
+  - Somente 3 letras para todos tipos 👌
 
 ## Estrutura
 
